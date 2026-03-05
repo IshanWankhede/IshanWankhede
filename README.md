@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ishan Wankhede</h1>
 <h3 align="center">A passionate frontend developer | Python Developer | AI & Computer Vision | Building cool things with code from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IshanWankhede" alt="ishanwankhede" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Ishan Wankhede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan wankhede" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ishan-wankhede-12238238a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishan wankhede" height="30" width="40" /></a>
 <a href="https://instagram.com/ishan_wankhede07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishan_wankhede07" height="30" width="40" /></a>
 <a href="https://discord.gg/878627788251336764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="878627788251336764" height="30" width="40" /></a>
 </p>
