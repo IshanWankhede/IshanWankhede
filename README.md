@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Wankhede</h1>
-<h3 align="center">A passionate frontend developer | Python Developer | AI & Computer Vision | Building cool things with code from India</h3>
+<h3 align="center">A passionate Backend developer | Python Developer | AI & Computer Vision | Building cool things with code from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
