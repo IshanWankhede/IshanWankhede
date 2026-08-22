@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IshanWankhede.IshanWankhede" />
+
 # 💫 About Me:
 🔭 Building: AI + Full-Stack projects<br>👯 Collaborating: AI/ML, Web & Open Source<br>🤝 Exploring: RAG, LLMs, Backend & System Design<br>🌱 Learning: FastAPI • PostgreSQL • Docker • ML • DSA<br>💬 Ask me about: React • Python • Java • C++ • AI/ML • CV<br>⚡ Fun fact: I don't just learn tech — I build with it 🚀
 
@@ -16,6 +18,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=IshanWankhede&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
