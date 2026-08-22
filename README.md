@@ -1,5 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IshanWankhede.IshanWankhede" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ishan+Wankhede!;" />
+</h1>
+
 # 💫 About Me:
 🔭 Building: AI + Full-Stack projects<br>👯 Collaborating: AI/ML, Web & Open Source<br>🤝 Exploring: RAG, LLMs, Backend & System Design<br>🌱 Learning: FastAPI • PostgreSQL • Docker • ML • DSA<br>💬 Ask me about: React • Python • Java • C++ • AI/ML • CV<br>⚡ Fun fact: I don't just learn tech — I build with it 🚀
 
