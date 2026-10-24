@@ -1,28 +1,63 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IshanWankhede.IshanWankhede" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ishan+Wankhede!;" />
-</h1>
-
-# 💫 About Me:
-🔭 Building: AI + Full-Stack projects<br>👯 Collaborating: AI/ML, Web & Open Source<br>🤝 Exploring: RAG, LLMs, Backend & System Design<br>🌱 Learning: FastAPI • PostgreSQL • Docker • ML • DSA<br>💬 Ask me about: React • Python • Java • C++ • AI/ML • CV<br>⚡ Fun fact: I don't just learn tech — I build with it 🚀
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5YwTb9Ypu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishan_wankhede07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-wankhede) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@ishanwankhede_07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishan.wankhede07@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.shion.dev/api?username=IshanWankhede&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://www.gitskins.com/api/section/portrait?username=ishanwankhede&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4" width="620" alt="Ishan_Wankhede07 animated graduation portrait" />
 
-  <img src="https://streak-stats.demolab.com/?user=IshanWankhede&theme=dark&hide_border=false" height="180"/>
+<h1>Ishan_Wankhede07</h1>
+<h3>Frontend or full-stack engineer</h3>
+
+<p><a href="https://github.com/ishanwankhede"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/ishanwankhede?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+
+<p>Building cool things with code &amp; AI</p>
 
 </div>
 
+## The mission
+
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
+
+Building cool things with code &amp; AI
+
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
+
+## What I’m building
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/IshanWankhede/3D_Dog_Wepage_React">3D_Dog_Wepage_React</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from ishanwankhede's public work.</p><p><a href="https://github.com/IshanWankhede/3D_Dog_Wepage_React">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/IshanWankhede/CampusGPT">CampusGPT</a></h3><p>CampusGPT – AI-Powered Smart Campus Management System</p><p><strong>Why it matters:</strong> a concrete proof point from ishanwankhede's public work.</p><p><a href="https://github.com/IshanWankhede/CampusGPT">Explore project →</a></p></td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/ishanwankhede?tab=repositories">Explore repositories →</a> · <a href="https://github.com/ishanwankhede?tab=stars">See open-source signal →</a></p>
+
+## Technology arsenal
+
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=ishanwankhede&theme=github-dark&logos=HTML%2CPython%2CJavaScript%2CTypeScript%2CJava%2CCSS%2CC%2CC%2B%2B&v=signature-cap-tip-languages-3" alt="Ishan_Wankhede07 technology stack" />
+
 </div>
+
+<table width="100%">
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>HTML | Python | JavaScript | TypeScript | Java | CSS | C | C++</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>3D_Dog_Wepage_React · CampusGPT · Face-Recognition-Attendence-System</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>46 repositories · 8 stars · 667 contributions</td></tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=ishanwankhede&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Ishan_Wankhede07 GitHub contribution summary" />
+
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=ishanwankhede&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Ishan_Wankhede07 contribution activity" />
+
+</div>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<p align="center"><a href="https://github.com/ishanwankhede"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/ishanwankhede?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/ishanwankhede"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
