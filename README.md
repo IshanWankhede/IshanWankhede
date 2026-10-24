@@ -9,7 +9,7 @@
 ## The city I built this year
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=ishanwankhede&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4" alt="ishanwankhede city visual" />
+  <img src="https://www.gitskins.com/api/section/city?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4" alt="ishanwankhede city visual" />
 </p>
 
 <p align="center"><sub>Every building is a day; taller means more contributions.</sub></p>
