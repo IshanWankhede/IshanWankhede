@@ -1,63 +1,19 @@
-<div align="center">
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4&v=showcase-hero-1" alt="Ishan_Wankhede07 hero visual" />
+</p>
 
-<img src="https://www.gitskins.com/api/section/portrait?username=ishanwankhede&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4" width="620" alt="Ishan_Wankhede07 animated graduation portrait" />
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4&v=showcase-wordmark-2" alt="Ishan_Wankhede07 wordmark visual" />
+</p>
 
-<h1>Ishan_Wankhede07</h1>
-<h3>Frontend or full-stack engineer</h3>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4&v=showcase-projects-3" alt="Ishan_Wankhede07 projects visual" />
+</p>
 
-<p><a href="https://github.com/ishanwankhede"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/ishanwankhede?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4&v=showcase-stats-4" alt="Ishan_Wankhede07 stats visual" />
+</p>
 
-<p>Building cool things with code &amp; AI</p>
-
-</div>
-
-## The mission
-
-AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
-
-Building cool things with code &amp; AI
-
-I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
-
-## What I’m building
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/IshanWankhede/3D_Dog_Wepage_React">3D_Dog_Wepage_React</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from ishanwankhede's public work.</p><p><a href="https://github.com/IshanWankhede/3D_Dog_Wepage_React">Explore project →</a></p></td>
-<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/IshanWankhede/CampusGPT">CampusGPT</a></h3><p>CampusGPT – AI-Powered Smart Campus Management System</p><p><strong>Why it matters:</strong> a concrete proof point from ishanwankhede's public work.</p><p><a href="https://github.com/IshanWankhede/CampusGPT">Explore project →</a></p></td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/ishanwankhede?tab=repositories">Explore repositories →</a> · <a href="https://github.com/ishanwankhede?tab=stars">See open-source signal →</a></p>
-
-## Technology arsenal
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=ishanwankhede&theme=github-dark&logos=HTML%2CPython%2CJavaScript%2CTypeScript%2CJava%2CCSS%2CC%2CC%2B%2B&v=signature-cap-tip-languages-3" alt="Ishan_Wankhede07 technology stack" />
-
-</div>
-
-<table width="100%">
-<tr><td width="28%"><strong>Languages & tools</strong></td><td>HTML | Python | JavaScript | TypeScript | Java | CSS | C | C++</td></tr>
-<tr><td><strong>Profile focus</strong></td><td>3D_Dog_Wepage_React · CampusGPT · Face-Recognition-Attendence-System</td></tr>
-<tr><td><strong>GitHub signal</strong></td><td>46 repositories · 8 stars · 667 contributions</td></tr>
-</table>
-
-## Open-source signal
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=ishanwankhede&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Ishan_Wankhede07 GitHub contribution summary" />
-
-<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=ishanwankhede&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Ishan_Wankhede07 contribution activity" />
-
-</div>
-
-## Let’s build useful software
-
-I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
-
-<p align="center"><a href="https://github.com/ishanwankhede"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/ishanwankhede?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/ishanwankhede"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
-
-<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4&v=showcase-heatmap-5" alt="Ishan_Wankhede07 heatmap visual" />
+</p>
