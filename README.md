@@ -16,8 +16,6 @@
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ishanwankhede&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## ⚔️ `> cat inventory.txt` — Skill Tree
-
 <div align="center">
 
 **🧠 Languages**
@@ -50,7 +48,6 @@
 
 </div>
 
----
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ishanwankhede&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
