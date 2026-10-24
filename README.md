@@ -6,6 +6,8 @@
 <img src="https://www.gitskins.com/api/section/wordmark?username=ishanwankhede&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F94549274%3Fu%3Db645cb6237036dfa8a3d77dc5d8a4a72f0260426%26v%3D4&v=showcase-wordmark-2" alt="Ishan_Wankhede07 wordmark visual" />
 </p>
 
+<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=ishanwankhede&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+
 ## The city I built this year
 
 <p align="center">
